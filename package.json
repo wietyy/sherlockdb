@@ -1,0 +1,27 @@
+{
+  "name": "sherlockdb",
+  "version": "1.0.0",
+  "description": "the \"no shit\" database",
+  "keywords": [
+    "database",
+    "db",
+    "sherlock",
+    "sherlockdb",
+    "wietyy"
+  ],
+  "homepage": "https://github.com/wietyy/sherlockdb#readme",
+  "bugs": {
+    "url": "https://github.com/wietyy/sherlockdb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wietyy/sherlockdb.git"
+  },
+  "license": "MIT",
+  "author": "Caleb Wietholter",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
