@@ -2,5 +2,11 @@
 name = "sherlockdb"
 version = "0.1.0"
 edition = "2024"
+description = "Minimal, zero-dependency, file-backed key-value store"
+license = "MIT"
+authors = ["Caleb Wietholter"]
+repository = "https://github.com/wietyy/sherlockdb"
+keywords = ["key-value", "storage", "file"]
+categories = ["database"]
 
 [dependencies]
