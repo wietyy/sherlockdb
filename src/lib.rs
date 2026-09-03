@@ -13,7 +13,7 @@ impl Database {
     }
 
     pub fn set(&self, id: &str, contents: &str) -> Result<(), std::io::Error> {
-        let filepath = self.path.join(id);
+        let filepath: PathBuf = self.path.join(id);
         fs::create_dir_all(&self.path)?;
         fs::write(filepath, contents)
     }

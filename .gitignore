@@ -1,5 +1,5 @@
 /target
 
-justfile
 demo.rs
 demo
+AGENTS.md
