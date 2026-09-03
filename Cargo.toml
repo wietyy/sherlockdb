@@ -1,6 +1,6 @@
 [package]
 name = "sherlockdb"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "Minimal, zero-dependency, file-backed key-value store"
 license = "MIT"
